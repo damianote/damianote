@@ -25,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20231006222045.png"
+                "file": "images/Pasted image 20231006222045.png"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231006222045.png",
+                "file": "images/Pasted image 20231006222045.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231006222045.png",
+                "file": "images/Pasted image 20231006222045.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231006222045.png"
+                "file": "images/Pasted image 20231006222045.png"
               }
             }
           }
@@ -159,9 +159,14 @@
   },
   "active": "fd62b846e69b104f",
   "lastOpenFiles": [
+    "Pasted image  20231006222045.png.md",
+    "images/Pasted image 20231006222045.png",
     "_posts/2023-10-06-test2.md",
-    "Pasted image 20231006222045.png",
+    "images",
+    "_posts/2023-10-06-ho.md",
     "_posts/2023-10-06-nice.md",
-    "_posts/2023-10-06-ho.md"
+    "Sequential Mono-immunotherapy Creates Antigen Loss Leading to Treatment Resistance.md",
+    "screenshot-layouts.png",
+    "screenshot.png"
   ]
 }
