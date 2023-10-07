@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "assets/images",
   "showUnsupportedFiles": false,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "promptDelete": false,
   "newLinkFormat": "absolute"
 }
