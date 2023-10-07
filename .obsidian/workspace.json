@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-07-japan.md",
+                "file": "_posts/2023-10-07-soccer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-07-japan.md",
+                "file": "_posts/2023-10-07-soccer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-07-japan.md",
+                "file": "_posts/2023-10-07-soccer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-07-japan.md"
+                "file": "_posts/2023-10-07-soccer.md"
               }
             }
           }
@@ -146,33 +146,32 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4fc3f9e437ede87a",
+  "active": "ac556f52c759f41e",
   "lastOpenFiles": [
-    "assets/images/Pasted image 20231007225311.png",
-    "_posts/2023-10-07-soccer.md",
     "_posts/2023-10-07-japan.md",
+    "assets/images/filename.png",
+    "assets/images/name.png.md",
+    "_posts/Template.md",
+    "_posts/2023-10-07-soccer.md",
+    "assets/images/Pasted.md",
+    "assets/images/Pasted image 20231007225311.png",
     "assets/images/Pasted image 20231007225110.png",
     "assets/images/Pasted image 20231007224745.png",
     "assets/images/Pasted image 20231007224439.png",
     "assets/images/Pasted image 20231007224007.png",
     "assets/images/Pasted image 20231007224314.png",
-    "assets/images/Pasted.md",
-    "_posts/Template.md",
     "20231007220117.png.md",
     "Pasted.md",
     "_posts/2023-10-06-ho.md",
     "_posts/2023-10-07-THanks.md",
-    "assets/images/name.png.md",
     "_posts/2023-10-07-testttt11.md",
     "_posts/2023-10-07-Lovetow11.md",
     "assets/images/filename.jpg.md",
-    "assets/images/filename.png",
     "assets/images",
     "Pasted image 20231007223106.png",
     "CHANGELOG.md",
     "images/Pasted image 20231007222155.png",
     "Pasted image 20231007223024.png",
-    "Pasted image 20231007223032.png",
     "_posts/2023-10-06-nice.md",
     "무제 폴더/TheMarkdown/markdown-image-tag-sample1.png.md",
     "Pasted image 20231007194542.png.md",
