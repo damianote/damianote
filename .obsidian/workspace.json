@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-07-THanks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70cb705e640f8289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20231007220117.png.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0a0d91f72dfef3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20231007220117.png.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a67782b05f3121d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-07-THanks.md",
+                "file": "_posts/2023-10-07-soccer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-07-THanks.md",
+                "file": "_posts/2023-10-07-soccer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-07-THanks.md",
+                "file": "_posts/2023-10-07-soccer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-07-THanks.md"
+                "file": "_posts/2023-10-07-soccer.md"
               }
             }
           }
@@ -183,15 +146,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ac556f52c759f41e",
+  "active": "4fc3f9e437ede87a",
   "lastOpenFiles": [
+    "assets/images/Pasted image 20231007224007.png",
+    "_posts/Template.md",
+    "_posts/2023-10-07-soccer.md",
+    "_posts/2023-10-06-ho.md",
+    "_posts/2023-10-07-THanks.md",
+    "20231007220117.png.md",
+    "assets/images/name.png.md",
     "_posts/2023-10-07-testttt11.md",
     "_posts/2023-10-07-Lovetow11.md",
     "assets/images/filename.jpg.md",
-    "_posts/2023-10-07-THanks.md",
     "assets/images/filename.png",
     "assets/images",
-    "20231007220117.png.md",
     "Pasted image 20231007223106.png",
     "CHANGELOG.md",
     "images/Pasted image 20231007222155.png",
@@ -221,7 +189,6 @@
     "README.md",
     "_posts/2023-10-06-test2.md",
     "_posts/images",
-    "Pasted image  20231006222045.png.md",
-    "_posts/2023-10-06-ho.md"
+    "Pasted image  20231006222045.png.md"
   ]
 }
