@@ -23,9 +23,33 @@
             "id": "fd62b846e69b104f",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-10-06-test2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03de7cd5830f1506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-10-07-testttt11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0c9461849c2b511",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "images/Pasted image 20231006222045.png"
+                "file": "_posts/images/Pasted image 20231007195539.png"
               }
             }
           }
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20231006222045.png",
+                "file": "_posts/2023-10-06-test2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20231006222045.png",
+                "file": "_posts/2023-10-06-test2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20231006222045.png"
+                "file": "_posts/2023-10-06-test2.md"
               }
             }
           }
@@ -159,14 +183,23 @@
   },
   "active": "fd62b846e69b104f",
   "lastOpenFiles": [
-    "Pasted image  20231006222045.png.md",
+    "_posts/images/Pasted image 20231007195539.png",
+    "_posts/images/Pasted image 20231007195536.png",
+    "_posts/2023-10-07-why.md",
+    "images/Pasted image 20231007195426.png",
     "images/Pasted image 20231006222045.png",
-    "_posts/2023-10-06-test2.md",
-    "images",
-    "_posts/2023-10-06-ho.md",
-    "_posts/2023-10-06-nice.md",
+    "_posts/images",
     "Sequential Mono-immunotherapy Creates Antigen Loss Leading to Treatment Resistance.md",
+    "screenshot.png",
     "screenshot-layouts.png",
-    "screenshot.png"
+    "_posts/2023-10-07-testttt11.md",
+    "Pasted image 20231007195416.png",
+    "_posts/2023-10-06-nice.md",
+    "_posts/2023-10-06-test2.md",
+    "Pasted image 20231007194542.png",
+    "CHANGELOG.md",
+    "Pasted image  20231006222045.png.md",
+    "images",
+    "_posts/2023-10-06-ho.md"
   ]
 }
