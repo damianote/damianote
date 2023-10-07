@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "57f346a6c720433d",
+        "id": "40b60ec0d2091bd0",
         "type": "tabs",
         "children": [
           {
-            "id": "0174a8932df48168",
+            "id": "4fc3f9e437ede87a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/2023-10-06-nice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd62b846e69b104f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-07-why.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03de7cd5830f1506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-07-testttt11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "818a0e5efd404a40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-10-07-10pm.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20231007222155.png"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-07-10pm.md",
+                "file": "images/Pasted image 20231007222155.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-07-10pm.md",
+                "file": "images/Pasted image 20231007222155.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-07-10pm.md"
+                "file": "images/Pasted image 20231007222155.png"
               }
             }
           }
@@ -183,30 +144,41 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "818a0e5efd404a40",
+  "active": "4fc3f9e437ede87a",
   "lastOpenFiles": [
-    "images/Pasted image 20231007220117.png",
-    "Sequential Mono-immunotherapy Creates Antigen Loss Leading to Treatment Resistance.md",
-    "screenshot-layouts.png",
+    "_posts/2023-10-07-THanks.md",
+    "images/Pasted image 20231007222155.png",
+    "20231007220117.png.md",
+    "_posts/2023-10-07-Lovetow11.md",
+    "_posts/2023-10-06-nice.md",
+    "무제 폴더/TheMarkdown/markdown-image-tag-sample1.png.md",
+    "무제 폴더/20231007220117.png",
+    "_posts/2023-10-07-testttt11.md",
+    "Pasted image 20231007194542.png.md",
     "docs/screenshot.png",
     "_posts/2023-10-07-10pm.md",
+    "images/20231007204205.png.md",
+    "Pasted image 20231007204205.png.md",
+    "_posts/2023-10-07-why.md",
+    "images/20231007220117.png",
+    "images/image.md",
+    "images",
+    "images/Pasted image 20231007220117.png",
+    "무제 폴더/TheMarkdown",
+    "무제 폴더/Pasted image 20231007220117.textClipping",
+    "무제 폴더/Pasted image 20231007220117.png",
+    "무제 폴더",
+    "images/Pasted image 20231007220117.textClipping",
+    "images/TheMarkdown/markdown-image-tag-sample1.png.md",
+    "images/TheMarkdown",
+    "Sequential Mono-immunotherapy Creates Antigen Loss Leading to Treatment Resistance.md",
+    "screenshot-layouts.png",
     "docs/assets/images/Pasted image 20231007220009.png",
-    "_posts/2023-10-07-Lovetow11.md",
     "README.md",
     "Pasted image 20231007203431.png",
     "Pasted image 20231007204205.png",
-    "images/Pasted image 20231007200415.png",
-    "Pasted image 20231007203439.png",
-    "Pasted image 20231007203434.png",
-    "Pasted image 20231007203352.png",
-    "Pasted image 20231007203402.png",
     "_posts/2023-10-06-test2.md",
-    "_posts/2023-10-07-testttt11.md",
-    "_posts/2023-10-07-why.md",
-    "images",
-    "무제 폴더",
     "_posts/images",
-    "_posts/2023-10-06-nice.md",
     "CHANGELOG.md",
     "Pasted image  20231006222045.png.md",
     "_posts/2023-10-06-ho.md"

@@ -1,4 +1,6 @@
 {
-  "attachmentFolderPath": "images",
-  "showUnsupportedFiles": false
+  "attachmentFolderPath": "images/",
+  "showUnsupportedFiles": false,
+  "useMarkdownLinks": true,
+  "promptDelete": false
 }
