@@ -47,11 +47,9 @@
             "id": "818a0e5efd404a40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/2023-10-07-Lovetow.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20231007200415.png"
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-07-Lovetow.md",
+                "file": "images/Pasted image 20231007200415.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-07-Lovetow.md",
+                "file": "images/Pasted image 20231007200415.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-07-Lovetow.md"
+                "file": "images/Pasted image 20231007200415.png"
               }
             }
           }
@@ -183,11 +181,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "818a0e5efd404a40",
+  "active": "ac556f52c759f41e",
   "lastOpenFiles": [
+    "_posts/2023-10-07-Lovetow.md",
     "images/Pasted image 20231007200415.png",
     "_posts/2023-10-06-test2.md",
-    "_posts/2023-10-07-Lovetow.md",
     "test/Pasted image 20231007200308.png",
     "_posts/2023-10-07-testttt11.md",
     "_posts/2023-10-07-why.md",
