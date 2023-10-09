@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "40b60ec0d2091bd0",
+        "id": "ef091f377a7d95c7",
         "type": "tabs",
         "children": [
           {
-            "id": "4fc3f9e437ede87a",
+            "id": "406909ce360f5c79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-07-soccer.md",
+                "file": "_posts/2023-10-09-power.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-07-soccer.md",
+                "file": "_posts/2023-10-09-power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-07-soccer.md",
+                "file": "_posts/2023-10-09-power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-07-soccer.md"
+                "file": "_posts/2023-10-09-power.md"
               }
             }
           }
@@ -146,14 +146,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ac556f52c759f41e",
+  "active": "406909ce360f5c79",
   "lastOpenFiles": [
+    "assets/images/ttt.png",
+    "_posts/2023-10-09-power.md",
+    "assets/images/Pasted.md",
+    "_posts/2023-10-07-soccer.md",
+    "_posts/Template.md",
     "_posts/2023-10-07-japan.md",
     "assets/images/filename.png",
     "assets/images/name.png.md",
-    "_posts/Template.md",
-    "_posts/2023-10-07-soccer.md",
-    "assets/images/Pasted.md",
     "assets/images/Pasted image 20231007225311.png",
     "assets/images/Pasted image 20231007225110.png",
     "assets/images/Pasted image 20231007224745.png",
@@ -171,7 +173,6 @@
     "Pasted image 20231007223106.png",
     "CHANGELOG.md",
     "images/Pasted image 20231007222155.png",
-    "Pasted image 20231007223024.png",
     "_posts/2023-10-06-nice.md",
     "무제 폴더/TheMarkdown/markdown-image-tag-sample1.png.md",
     "Pasted image 20231007194542.png.md",
@@ -189,7 +190,6 @@
     "images/TheMarkdown",
     "Sequential Mono-immunotherapy Creates Antigen Loss Leading to Treatment Resistance.md",
     "README.md",
-    "_posts/2023-10-06-test2.md",
     "_posts/images"
   ]
 }
